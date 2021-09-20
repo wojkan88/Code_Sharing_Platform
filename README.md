@@ -6,7 +6,7 @@ This web application provides a platform for storing and sharing pieces of code.
 
 ## Technologies
 * Java SE 11
-* Spring Boot 2.4.2
+* Spring Boot 2.4.10
   - Spring Boot Starter
   - Spring Boot Starter Web
   - Spring Boot Starter Data JPA
@@ -16,4 +16,4 @@ This web application provides a platform for storing and sharing pieces of code.
 * HTML
 * CSS
 * JavaScript
-* Gradle 6.7.1
+* Maven 3.6.3
